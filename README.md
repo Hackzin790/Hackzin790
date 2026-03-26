@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.awsli.com.br/600x450/1382/1382878/produto/315661274/205479-minecraft-p1wil151fv.png"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -27,6 +23,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://cdn.awsli.com.br/600x450/1382/1382878/produto/315661274/205479-minecraft-p1wil151fv.png"  />
 
 ###
 
