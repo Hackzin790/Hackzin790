@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/227836456?v=4"  />
+<img align="right" height="150" src="https://cdn.awsli.com.br/600x450/1382/1382878/produto/315661274/205479-minecraft-p1wil151fv.png"  />
 
 ###
 
